@@ -23,14 +23,7 @@ The data are divided in folders according to the following categories.
 Mapping all transit routes.
 ... 
 
-
-
-
-2. Stops
-----------
-Mapping all stops.
-...
-
+![Melbourne public transport network.](Plots/transitmap3.jpg)
 
 
 2. Interactive maps
