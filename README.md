@@ -23,6 +23,8 @@ The data are divided in folders according to the following categories.
 Mapping all transit routes.
 ... 
 
+Mapping the Metropolitan train, tram and bus lines.
+
 ![Melbourne public transport network.](Plots/transitmap3.jpg)
 
 
