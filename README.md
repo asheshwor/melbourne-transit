@@ -23,7 +23,7 @@ The data are divided in folders according to the following categories.
 Mapping all transit routes.
 ... 
 
-Mapping the Metropolitan train, tram and bus lines.
+Mapping the Metropolitan train, tram and bus lines. **Note:** this may not be a true representation of the route density as I have not taken into account the route exceptions and weekend/holiday timetables.
 
 ![Melbourne public transport network.](Plots/transitmap3.jpg)
 
